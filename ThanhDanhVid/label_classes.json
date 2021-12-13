@@ -1,0 +1,31 @@
+[{
+"id": "a41e0a83-6aa6-4647-a4f5-b2be75337836",
+"color": "#1f78b44d",
+"png_index": [
+31,
+120,
+180
+],
+"name": "Road",
+"type": "background"
+}, {
+"id": "39fe76ac-39fd-45d2-bf2a-b731fd5efcdc",
+"color": "#e31a1c4d",
+"png_index": [
+227,
+26,
+28
+],
+"name": "Person",
+"type": "background"
+}, {
+"id": "2d34dda2-ceee-4aa6-8716-27e0e2bed1db",
+"color": "#6a3d9a4d",
+"png_index": [
+106,
+61,
+154
+],
+"name": "Car",
+"type": "background"
+}]
